@@ -1,6 +1,6 @@
 # Cifar10 Dataset and Convolutional Neural Networks
 Model gives 87% accuracy on test data.
-Data augmentation was not applied in traning.
+Data augmentation was not applied in training.
 ![Alt text](https://github.com/iremerel/Cifar10-Dataset-and-CNN/blob/main/Test%20Data%20Results.png)
 
 # Model Architecture
